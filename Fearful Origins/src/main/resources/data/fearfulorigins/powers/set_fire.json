@@ -1,0 +1,12 @@
+{
+    "name": "Set Fire",
+    "description": "Set fire to things when right clicking",
+    "type":"origins:action_on_block_use",
+    "entity_action": {
+        "type": "origins:raycast",
+        "distance": 8,
+        "command_at_hit": "setblock ~ ~ ~ minecraft:fire keep",
+        "entity": false
+    }
+    
+}

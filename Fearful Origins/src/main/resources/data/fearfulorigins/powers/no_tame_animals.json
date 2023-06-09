@@ -1,0 +1,15 @@
+{
+    
+    "name": "Fear's Worst Friend",
+    "description": "You are unable to tame animals",
+    "type": "origins:prevent_entity_use",
+    "bientity_condition": {
+        "type": "origins:target_condition",
+        "condition": {
+            "type": "origins:in_tag",
+            "tag": "fearfulorigins:tameable_mobs"
+    }
+    }
+
+
+}

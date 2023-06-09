@@ -1,0 +1,12 @@
+{
+    
+    "name": "Strength Buff",
+    "description": "Permanently gain strength",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.attack_damage",
+        "value": "3",
+        "operation": "addition"
+    }
+
+}

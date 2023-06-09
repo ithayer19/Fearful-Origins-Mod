@@ -1,0 +1,13 @@
+{
+    "name": "No Names",
+    "description": "You are unable to use name tags",
+    
+    "type": "origins:prevent_entity_use",
+    "item_condition": {
+        "type": "origins:ingredient",
+            "ingredient": {
+            "item": "minecraft:name_tag"
+            }
+    }
+    
+    }

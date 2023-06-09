@@ -1,0 +1,12 @@
+{
+ 
+    "name": "Farewell!",
+    "description": "Launch your friends into the sky.",
+    "type": "origins:action_on_hit",
+    "bientity_action": {
+        "type": "origins:add_velocity",
+        "y": 1
+    }
+    
+    
+    }

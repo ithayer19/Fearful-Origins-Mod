@@ -1,0 +1,17 @@
+{
+    "powers": [
+        "origins:no_cobweb_slowdown",
+        "fearfulorigins:no_spider_aggression",
+        "origins:master_of_webs",
+        "fearfulorigins:extra_fire_damage",
+        "fearfulorigins:nether_weakness",
+        "origins:climbing"
+    
+    ],
+    "icon": "minecraft:cobweb",
+    "order": 2,
+    "impact": 3,
+    "name": "The Web",
+    "description": "Fear of being trapped or entangled, or of spiders and other creepy crawlies that weave webs."
+
+}

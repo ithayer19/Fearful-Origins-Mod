@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "fearfulorigins:speed_buff",
+        "fearfulorigins:scare_mobs",
+        "fearfulorigins:wolf_aggression"
+    ],
+    "icon": "minecraft:rabbit_foot",
+    "order": 2,
+    "impact": 3,
+    "name": "The Hunt",
+    "description": "Fear of being hunted or pursued by a predator or enemy."
+
+}

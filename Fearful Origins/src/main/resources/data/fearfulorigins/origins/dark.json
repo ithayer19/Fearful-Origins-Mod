@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "fearfulorigins:permanent_night_vision",
+        "fearfulorigins:blind_others",
+        "fearfulorigins:sleep_dark",
+        "fearfulorigins:sun_damage"
+    ],
+    "icon": "minecraft:tinted_glass",
+    "order": 2,
+    "impact": 3,
+    "name": "The Dark",
+    "description": "Fear of the unknown or things that cannot be seen in the absence of light."
+
+}

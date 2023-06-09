@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "fearfulorigins:set_fire",
+        "origins:fire_immunity",
+        "fearfulorigins:cooked_food_diet",
+        "fearfulorigins:wood_fire",
+        "fearfulorigins:decreased_explosion_damage"
+    ],
+    "icon": "minecraft:fire_charge",
+    "order": 2,
+    "impact": 3,
+    "name": "The Desolation",
+    "description": "Fear of being isolated and abandoned in a desolate or empty place."
+
+}

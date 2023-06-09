@@ -1,0 +1,18 @@
+{
+    "name": "Enemy of the Wolves",
+    "description": "Wolves will attack you on sight",
+    "type": "origins:action_over_time",
+		"entity_action": {
+			"type":"origins:and",
+			"actions":[
+				{
+					"type":"origins:execute_command",
+					"command":"execute at @s as @e[type=minecraft:wolf,distance=..10] run data modify entity @s AngryAt set from entity @p UUID"
+				},
+				{
+					"type":"origins:execute_command",
+					"command":"execute at @s as @e[type=minecraft:wolf,distance=..10] run data modify entity @s AngerTime set value 60"
+				}
+			]
+		}
+}

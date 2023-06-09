@@ -1,0 +1,15 @@
+{
+    
+    "name": "Enemy of the Animals",
+    "description": "You can't breed animals",
+    "type": "origins:prevent_entity_use",
+
+    "bientity_condition":{
+        "type": "origins:target_condition",
+        "condition": {
+            "type": "origins:in_tag",
+            "tag": "fearfulorigins:breedable_mobs"
+        }
+    }
+
+}

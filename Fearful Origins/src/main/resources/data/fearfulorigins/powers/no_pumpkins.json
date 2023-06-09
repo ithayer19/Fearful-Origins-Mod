@@ -1,0 +1,12 @@
+{
+    "name": "Pumpkin Free",
+    "description": "You can't use pumpkins to protect yourself from Endermen",
+    "type": "origins:restrict_armor",
+    "head": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:carved_pumpkin"
+        }
+    }
+    
+    }

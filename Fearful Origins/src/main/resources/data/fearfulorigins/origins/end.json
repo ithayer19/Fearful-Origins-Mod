@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "fearfulorigins:kill_passive_mobs",
+        "fearfulorigins:extra_fragile",
+        "fearfulorigins:withering_punches",
+        "fearfulorigins:no_undead_aggression"
+    ],
+    "icon": "minecraft:end_crystal",
+    "order": 2,
+    "impact": 3,
+    "name": "The End",
+    "description": "Fear of death or the end of things, such as relationships or opportunities." 
+
+}

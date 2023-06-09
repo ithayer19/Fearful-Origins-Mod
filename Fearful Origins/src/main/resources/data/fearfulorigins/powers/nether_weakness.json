@@ -1,0 +1,17 @@
+{
+   
+    "name": "Weak to the Nether",
+    "description": "You gain weakness in the Nether",
+    "type":"origins:action_over_time",
+	"entity_action":{
+			"type":"origins:execute_command",
+			"command":"execute as @s run effect give @s minecraft:weakness 5 0 true"
+		
+	},
+	"interval":20,
+	"condition":{
+		"type":"origins:dimension",
+		"dimension":"minecraft:the_nether"
+	}
+    
+    }

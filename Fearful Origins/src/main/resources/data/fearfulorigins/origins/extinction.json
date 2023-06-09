@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "fearfulorigins:poison_mobs",
+        "fearfulorigins:extra_bad_luck"
+    ],
+    "icon": "minecraft:dead_bush",
+    "order": 2,
+    "impact": 3,
+    "name": "The Extinction",
+    "description": "Fear of the annihilation of a species or the end of life on Earth."
+
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Sleep in the Dark",
+    "description": "You can only sleep in the dark, where there is no light.",
+    "type": "origins:prevent_sleep",
+    "message": "It must be pitch black for you to sleep",
+    "block_condition": {
+        "type": "origins:light_level",
+        "comparison": ">",
+        "compare_to": 2
+    }
+
+}

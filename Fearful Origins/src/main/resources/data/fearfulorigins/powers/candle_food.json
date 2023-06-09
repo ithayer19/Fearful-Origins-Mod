@@ -1,0 +1,15 @@
+{
+    "name": "Candles for Dinner",
+    "description": "Your waxy skin only allows you to use Beeswax and Candles to regen health",
+    "type":"origins:and",
+        "actions":
+        [
+        {
+            "type": "origins:disable_regen"
+        },
+        {
+
+        }
+        ]
+    
+}

@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "fearfulorigins:give_nausea",
+        "fearfulorigins:no_phantoms",
+        "fearfulorigins:shuffle_inventory",
+        "fearfulorigins:no_phantom_aggression"
+    ],
+    "icon": "minecraft:nautilus_shell",
+    "order": 2,
+    "impact": 3,
+    "name": "The Spiral",
+    "description": "Fear of losing control or being trapped in a downward spiral of negative events."
+
+}

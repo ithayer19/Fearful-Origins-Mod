@@ -1,0 +1,16 @@
+{ 
+    "name": "Endless Eyes",
+    "description": "Use your primary power to throw an eye of ender.",
+    "type": "origins:fire_projectile",
+    "entity_type": "minecraft:eye_of_ender",
+    "cooldown": 50,
+    "hud_render": {
+        "should_render": true
+    },
+    "tag": "{pickup:0b}",
+    "key": {
+        "key": "key.origins.primary_active",
+        "continuous": false
+    }
+    
+    }

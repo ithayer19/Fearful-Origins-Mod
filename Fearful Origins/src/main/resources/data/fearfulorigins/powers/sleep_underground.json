@@ -1,0 +1,11 @@
+{
+  "type": "origins:prevent_sleep",
+  "message": "You're not deep enough underground to sleep",
+  "block_condition": {
+    "type": "origins:height",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "name": "Sleep Underground",
+  "description": "You must be deep underground to sleep, to properly feel the earth closing in around you."
+}

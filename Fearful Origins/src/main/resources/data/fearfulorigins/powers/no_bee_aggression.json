@@ -1,0 +1,25 @@
+{
+       
+    "name": "Friend of the Bees",
+    "description": "Bees won't turn on you when you mine their hives",
+    "type": "origins:action_over_time",
+		"entity_action":{
+			"type":"origins:and",
+			"actions":[
+			{
+				"type":"origins:execute_command",
+				"command":"team add bees"
+			},
+			{
+				"type":"origins:execute_command",
+				"command":"team join bees @s"
+			},
+			{
+				"type":"origins:execute_command",
+				"command":"team join bees @e[type=minecraft:bee]"
+			}
+			]
+		}
+		
+
+}

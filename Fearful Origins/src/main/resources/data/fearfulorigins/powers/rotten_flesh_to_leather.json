@@ -1,0 +1,46 @@
+{
+      
+    "name": "Rotten Leather",
+    "description": "Turn rotten flesh into leather",
+    "type": "origins:recipe",
+    "recipe":
+    {
+        "id":"fearfulorigins:rotten_flesh_crafting",
+        "type":"minecraft:crafting_shapeless",
+        "ingredients":[
+            {
+                "item": "minecraft:rotten_flesh"
+            },
+            {
+                "item": "minecraft:rotten_flesh"
+            },
+            {
+                "item": "minecraft:rotten_flesh"
+            },
+            {
+                "item": "minecraft:rotten_flesh"
+            },
+            {
+                "item": "minecraft:rotten_flesh"
+            },
+            {
+                "item": "minecraft:rotten_flesh"
+            },
+            {
+                "item": "minecraft:rotten_flesh"
+            },
+            {
+                "item": "minecraft:rotten_flesh"
+            },
+            {
+                "item": "minecraft:rotten_flesh"
+            }
+        ],
+        "result":
+        {
+            "item": "minecraft:leather"
+        }
+        
+    }
+
+}

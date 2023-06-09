@@ -1,0 +1,16 @@
+{
+    "powers": [
+        "fearfulorigins:steal_wolves",
+        "fearfulorigins:no_bee_aggression",
+        "fearfulorigins:no_breed_animals",
+        "fearfulorigins:extra_fire_damage"
+        
+    ],
+    "icon": "minecraft:mycelium",
+    "order": 2,
+    "impact": 3,
+    "name": "The Corruption",
+    "description": "Fear of decay, disease, and filth."
+
+
+}

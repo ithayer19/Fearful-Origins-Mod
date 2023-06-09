@@ -1,0 +1,14 @@
+{
+  "name": "Weak to Fire",
+  "description": "You take extra damage from fire.",
+    
+  "type": "origins:modify_damage_taken",
+  "damage_condition": {
+	"type": "origins:fire"
+  },
+  "modifier": {
+	"name": "Origin modifier",
+	"operation": "multiply_base",
+	"value": 2
+  }
+    }

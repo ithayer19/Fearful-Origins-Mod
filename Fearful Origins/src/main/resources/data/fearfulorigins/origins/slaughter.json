@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "fearfulorigins:strength_buff",
+        "fearfulorigins:improved_shovels",
+        "fearfulorigins:mob_aggression"
+    ],
+    "icon": "minecraft:netherite_sword",
+    "order": 2,
+    "impact": 3,
+    "name": "The Slaughter",
+    "description": "Fear of violent death or mass killing."
+
+}

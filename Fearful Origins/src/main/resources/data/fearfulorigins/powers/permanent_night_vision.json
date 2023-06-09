@@ -1,0 +1,8 @@
+{
+    
+    "name": "Dark Vision",
+    "description": "You don't fear the Dark, allowing you to see through it.",
+    "type": "origins:night_vision",
+    "strength": 1
+
+}

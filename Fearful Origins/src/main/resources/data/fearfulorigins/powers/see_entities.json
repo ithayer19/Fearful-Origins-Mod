@@ -1,0 +1,17 @@
+{
+    "name": "See All",
+    "description": "All hostile mobs glow whenever you can see them.",
+    "type": "origins:entity_glow",
+    "bientity_condition": {
+        "type": "origins:can_see"
+    },
+    "entity_condition": {
+        "type": "origins:living"
+    },
+    "use_teams": false,
+    "red": 0.0,
+    "green": 1.0,
+    "blue": 0.5
+
+
+}

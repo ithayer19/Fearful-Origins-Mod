@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "fearfulorigins:launch",
+        "origins:slow_falling",
+        "origins:fresh_air"
+    ],
+    "icon": "minecraft:heart_of_the_sea",
+    "order": 2,
+    "impact": 3,
+    "name": "The Vast",
+    "description": "Fear of the unknown or incomprehensibly large, such as outer space or the depths of the ocean."
+
+}

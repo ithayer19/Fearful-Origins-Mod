@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "fearfulorigins:no_pumpkins",
+        "fearfulorigins:permanent_night_vision",
+        "fearfulorigins:see_entities"
+
+    ],
+    "icon": "minecraft:ender_eye",
+    "order": 2,
+    "impact": 3,
+    "name": "The Eye",
+    "description": "Fear of being watched or stared at, or of eyes themselves."
+
+}

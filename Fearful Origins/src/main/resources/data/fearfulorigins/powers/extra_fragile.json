@@ -1,0 +1,13 @@
+{
+    
+"name": "Extra Fragile",
+"description": "You only have 4 hearts.",
+"type": "origins:attribute",
+  "modifier": {
+    "name": "Fragile health reduction",
+    "attribute": "minecraft:generic.max_health",
+    "value": -10.0,
+    "operation": "addition"
+  }
+
+}

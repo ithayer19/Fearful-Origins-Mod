@@ -1,0 +1,39 @@
+{ 
+    "name": "Mob's Friend",
+    "description": "Activate your power to blend in with mobs",
+    "type": "origins:active_self",
+		"entity_action": {
+			"type":"origins:and",
+			"actions":[
+				{
+					"type": "origins:execute_command",
+					"command": "team add blend"
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "team join blend @s"
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "team join blend @e"
+				},
+				{
+					"type": "origins:delay",
+					"ticks": 0,
+					"action": {
+						"type": "origins:execute_command",
+					"command": "team remove blend"
+					}
+				}
+			]
+		},
+		"cooldown": 900,
+		"key": {
+			"key": "key.origins.secondary_active",
+			"continuous": false
+		},
+		"hud_render": {
+			"should_render": true
+		}
+    
+    }

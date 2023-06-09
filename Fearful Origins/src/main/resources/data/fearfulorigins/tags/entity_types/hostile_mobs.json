@@ -1,0 +1,22 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:blaze",
+        "minecraft:silverfish",
+        "minecraft:warden",
+        "minecraft:ravager",
+        "minecraft:creeper",
+        "minecraft:skeleton",
+        "minecraft:elder_guardian",
+        "minecraft:guardian",
+        "minecraft:slime",
+        "minecraft:ghast",
+        "minecraft:stray",
+        "minecraft:endermite",
+        "minecraft:phantom",
+        "minecraft:witch",
+        "minecraft:drowned",
+        "minecraft:pillager",
+        "minecraft:zombie"
+	]
+}

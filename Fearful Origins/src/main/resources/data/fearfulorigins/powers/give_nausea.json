@@ -1,0 +1,19 @@
+{
+    
+    "name": "Nauseous Aura",
+    "description": "Active your primary power to make other players nauseous",
+    "type": "origins:active_self",
+		"entity_action": {
+			"type": "origins:execute_command",
+			"command": "effect give @a[distance=1..32] nausea 10"
+		},
+		"cooldown": 500,
+		"key": {
+			"key": "key.origins.primary_active",
+			"continuous": false
+		},
+		"hud_render": {
+			"should_render": true
+		}
+
+}

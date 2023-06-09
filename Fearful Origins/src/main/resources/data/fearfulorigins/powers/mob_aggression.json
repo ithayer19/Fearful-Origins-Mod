@@ -1,0 +1,12 @@
+{
+     
+    "name": "Mob Aggression",
+    "description": "Mobs are more likely to see you from further away",
+    "type":"origins:action_over_time",
+	"entity_action":{
+			"type":"origins:execute_command",
+			"command":"execute as @e[type=!minecraft:player,type=!minecraft:wither,type=!minecraft:ender_dragon] run attribute @s minecraft:generic.follow_range base set 64.0"
+		
+	}
+
+}

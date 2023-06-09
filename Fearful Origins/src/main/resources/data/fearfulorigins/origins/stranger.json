@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "fearfulorigins:blend_with_mobs",
+        "fearfulorigins:spawn_statues",
+        "fearfulorigins:passive_mob_aggression",
+        "fearfulorigins:no_name_tags"
+    ],
+    "icon": "minecraft:slime_ball",
+    "order": 2,
+    "impact": 3,
+    "name": "The Stranger",
+    "description": "Fear of unfamiliar people or situations, or of being taken by a stranger."
+
+}

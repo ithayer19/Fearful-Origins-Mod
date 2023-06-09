@@ -1,0 +1,62 @@
+{
+    "name": "Friend of the Undead",
+    "description": "Undead mobs are neutral to you",
+    "type": "origins:action_over_time",
+        "entity_action":{
+            "type":"origins:and",
+            "actions":[
+            {
+                "type":"origins:execute_command",
+                "command":"team add undead"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @s"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:drowned]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:husk]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:phantom]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:skeleton]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:stray]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:wither]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:wither_skeleton]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:zoglin]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:zombie]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:zombie_villager]"
+            },
+            {
+                "type":"origins:execute_command",
+                "command":"team join undead @e[type=minecraft:zombified_piglin]"
+            }
+            ]
+        }
+}

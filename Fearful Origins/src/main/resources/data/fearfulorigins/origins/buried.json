@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "fearfulorigins:spawn_blocks",
+        "fearfulorigins:sleep_underground" ,
+        "fearfulorigins:underground_haste" 
+
+    ],
+    "icon": "minecraft:dirt",
+    "order": 2,
+    "impact": 3,
+    "name": "The Buried",
+    "description": "Fear of being trapped and confined underground or buried alive."
+
+}

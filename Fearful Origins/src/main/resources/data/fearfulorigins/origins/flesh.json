@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "fearfulorigins:improved_leather_armor",
+        "fearfulorigins:rotten_flesh_to_leather",
+        "fearfulorigins:raw_meat_diet",
+        "fearfulorigins:better_flesh"
+    ],
+    "icon": "minecraft:rotten_flesh",
+    "order": 2,
+    "impact": 3,
+    "name": "The Flesh",
+    "description": "Fear of bodily harm, injury, or mutilation."
+
+}
